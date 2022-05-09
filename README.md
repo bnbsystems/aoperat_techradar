@@ -1,1 +1,0 @@
-# aoperat_techradar
