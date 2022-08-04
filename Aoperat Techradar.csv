@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-C#,Adopt,languages-and-frameworks,FALSE,"<p>test</p>"
+CSharp,Adopt,languages-and-frameworks,FALSE,"<p>test</p>"
 python,Adopt,languages-and-frameworks,FALSE,"<p>test</p>"
 R,Adopt,languages-and-frameworks,FALSE,"<p>test</p>"
 javascript,Adopt,languages-and-frameworks,FALSE,"<p>test</p>"
